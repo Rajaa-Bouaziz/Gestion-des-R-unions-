@@ -1,0 +1,32 @@
+1-
+Avant de commencer : regarder la video==>c'est important
+https://www.youtube.com/watch?v=JP5rgXO_5Sk&list=TLPQMTgwNTIwMjAw1YI-gCcH5g&index=2
+2- la page principale est divisé en 
+*footer
+*entete
+*corps
+NB: le cors  ce qui veut change à faire et à mesure 
+*****************
+********chef***********
+1-creer compte
+	-remplir une formulaire ==>inserer les donnees du chef en base de donnees 
+2-creer une nouvelle reunion 
+	-il faut d abord s'authentifier 
+	-remplir une formulaire puis reserver une salle et des materiaux et selectionnees des membres qui devenu des participants 
+3-afficher mes reunions
+***********Memre********
+1-creer un compte 
+	-remplir une formulaire 
+	-afficher les notifications du membre entete de la page avec son image (jaras hh)
+2-afficher mes reunions	
+*******configuration***********
+1-ajout des salles et materiaux
+2-afficher les reunions (possibilite de rechercher une reunion selon la date)
+			possibilite d'afficher une des participants et le chef d'un reunion )
+
+
+	
+	
+	
+		
+
